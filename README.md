@@ -1,6 +1,6 @@
 # 💰 Financify - Aplicativo de Gestão Financeira
 
-![Capa do Projeto](https://raw.githubusercontent.com/seu-usuario/flutter-finance-app/main/lib/img/screen01.png)
+![Capa do Projeto](./lib/img/screen01.png)(./lib/img/screen02.png)
 
 <div align="center">
   
