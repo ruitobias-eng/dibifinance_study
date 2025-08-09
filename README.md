@@ -39,10 +39,11 @@ O Financify é um aplicativo de gestão financeira pessoal desenvolvido em Flutt
 ## 🎨 Telas do Aplicativo
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/flutter-finance-app/main/lib/img/screen01.png" width="30%" alt="Tela de Login"/>
-  <img src="https://raw.githubusercontent.com/seu-usuario/flutter-finance-app/main/lib/img/screen02.png" width="30%" alt="Dashboard"/>
-  <img src="https://raw.githubusercontent.com/seu-usuario/flutter-finance-app/main/lib/img/rui.jpg" width="30%" alt="Perfil"/>
+  <img src="./lib/img/screen01.png" width="45%" alt="Tela de Login"/>
+  <img src="./lib/img/screen02.png" width="45%" alt="Dashboard"/>
 </div>
+
+<div align="center">
 
 ## 🚀 Começando
 
