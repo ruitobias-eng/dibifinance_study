@@ -111,10 +111,10 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📧 Contato
 
-**Desenvolvedor**: Seu Nome  
-**Email**: seu-email@exemplo.com  
+**Desenvolvedor**: Rui Tobias 
+**Email**: ruitobias@dibitech.com.br 
 **LinkedIn**: [Perfil LinkedIn](https://linkedin.com/in/seu-perfil)  
 
 <div align="center">
-  Feito com ❤️ por <a href="https://github.com/seu-usuario">Seu Nome</a>
+  Feito com ❤️ por <a href="https://github.com/ruitobias-eng">Rui Tobias</a>
 </div>
