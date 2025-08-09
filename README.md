@@ -43,8 +43,6 @@ O Financify é um aplicativo de gestão financeira pessoal desenvolvido em Flutt
   <img src="./lib/img/screen02.png" width="45%" alt="Dashboard"/>
 </div>
 
-<div align="center">
-
 ## 🚀 Começando
 
 ### Pré-requisitos
