@@ -1,6 +1,9 @@
 # 💰 Financify - Aplicativo de Gestão Financeira
 
-![Capa do Projeto](./lib/img/screen01.png)(./lib/img/screen02.png)
+<div align="center">
+  <img src="./lib/img/screen01.png" width="45%" alt="Tela de Login"/>
+  <img src="./lib/img/screen02.png" width="45%" alt="Dashboard"/>
+</div>
 
 <div align="center">
   
